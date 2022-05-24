@@ -1,0 +1,21 @@
+
+let saldo = 1000;
+let opcao = Number(prompt('Digite 1 para sacar | Digite 2 para depositar'));
+
+if (opcao == 1) {
+    
+    let saque = Number(prompt('Informe o valor a ser sacado'));
+    let saldoAtual = saldo - saque;
+    console.log(`Saldo anterior: R$ ${saldo}\nSaque: R$ ${saque}\nSaldoAtual: R$ ${saldoAtual}`);
+    
+} else if (opcao == 2) {
+    
+    let deposito = Number(prompt('Informe o valor a ser depositado'));
+    let saldoAtual = saldo + deposito;
+    console.log(`Saldo anterior: R$ ${saldo}\nDepósito: R$ ${deposito}\nSaldoAtual: R$ ${saldoAtual}`);
+
+} else {
+    
+    console.log('Opção inválida');
+    
+}
