@@ -1,0 +1,6 @@
+
+let saldo = 1000;
+let deposito = Number(prompt('Informe o valor a ser depositado')); // 500
+let saldoAtual = saldo + deposito; // 1500
+
+console.log(`Saldo anterior: R$ ${saldo}\nDepósito: R$ ${deposito}\nSaldoAtual: R$ ${saldoAtual}`);
