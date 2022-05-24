@@ -1,0 +1,9 @@
+
+const NOME = prompt('Digite seu nome'); // Eleazar
+const IDADE = Number(prompt('Informe sua idade')); // 30
+
+console.log(IDADE > 18); // true
+console.log(IDADE == 25); // false
+console.log(IDADE == 25 && NOME == 'Eleazar'); // false
+console.log(IDADE == 25 || NOME == 'Eleazar'); // true
+console.log(IDADE % 2 === 0); // true
