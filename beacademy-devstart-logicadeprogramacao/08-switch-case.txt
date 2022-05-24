@@ -1,0 +1,41 @@
+
+let opcao = Number(prompt('Digite 1 para somar\nDigite 2 para subtrair\nDigite 3 para multiplicar\nDigite 4 para dividir'));
+
+if (opcao > 0 && opcao < 5) {
+        
+    let numberOne = Number(prompt('Digite um número'));
+    let numberTwo = Number(prompt('Digite outro número'));
+    
+    switch (opcao) {
+        
+        case 1:
+            
+            let soma = numberOne + numberTwo;
+            console.log(`A soma de ${numberOne} + ${numberTwo} é igual à = ${soma}`);
+            break;
+        
+         case 2:
+            
+            let subtracao = numberOne - numberTwo;
+            console.log(`A subtração de ${numberOne} - ${numberTwo} é igual à = ${subtracao}`);
+            break;
+        
+         case 3:
+            
+            let multiplicacao = numberOne * numberTwo;
+            console.log(`A multiplicação de ${numberOne} * ${numberTwo} é igual à = ${multiplicacao}`);
+            break;
+            
+         case 4:
+            
+            let divisao = numberOne / numberTwo;
+            console.log(`A divisão de ${numberOne} / ${numberTwo} é igual à = ${divisao}`);
+            break;
+            
+    }
+
+} else {
+    
+    console.log('Opção inválida');
+
+}
