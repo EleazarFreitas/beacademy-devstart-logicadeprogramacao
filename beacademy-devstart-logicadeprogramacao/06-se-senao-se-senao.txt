@@ -1,0 +1,10 @@
+
+let IDADE = Number(prompt('Informe sua altura'));
+
+if (IDADE < 18) {
+    console.log(`IMC: ${IDADE}\nClassificação: Menor de Idade`);
+} else if (IDADE < 60) {
+    console.log(`IMC: ${IDADE}\nClassificação: Adulto`);
+} else {
+    console.log(`IMC: ${IDADE}\nClassificação: Idoso`);
+}
