@@ -1,0 +1,43 @@
+
+let numero = Number(prompt('Digite um número'));
+
+let tabuadaSoma = '\n';
+let tabuadaSubtracao = '\n';
+let tabuadaMultiplicacao = '\n';
+let tabuadaDivisao = '\n';
+
+let i = 1;
+
+while (i < 11) {
+    tabuadaSoma += `${numero} + ${i} = ${numero + i}\n`;
+    i++;
+}
+
+i = 1;
+
+while (i < 11) {
+    tabuadaSubtracao += `${numero} - ${i} = ${numero - i}\n`;
+    i++;
+}
+
+i = 1;
+
+while (i < 11) {
+    tabuadaMultiplicacao += `${numero} * ${i} = ${numero * i}\n`;
+    i++;
+}
+
+i = 1;
+
+while (i < 11) {
+    tabuadaDivisao += `${numero} / ${i} = ${(numero / i).toFixed(2)}\n`;
+    i++;
+}
+
+console.log(`Tabuada de ${numero} somando:\n${tabuadaSoma}`);
+
+console.log(`Tabuada de ${numero} subtraindo:\n${tabuadaSubtracao}`);
+
+console.log(`Tabuada de ${numero} multiplicando:\n${tabuadaMultiplicacao}`);
+
+console.log(`Tabuada de ${numero} dividindo:\n${tabuadaDivisao}`);
