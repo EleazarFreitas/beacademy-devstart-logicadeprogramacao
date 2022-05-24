@@ -6,11 +6,6 @@ let nomesEprecos = '\n';
 for (let i = 1; i < 11; i++) {
     
     nomes.push(prompt('Informe o nome do produto ' + i));
-    
-}
-
-for (let i = 1; i < 11; i++) {
-    
     precos.push(Number(prompt('Informe o valor do produto ' + i)));
     
 }
