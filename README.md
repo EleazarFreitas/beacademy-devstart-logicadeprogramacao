@@ -1,10 +1,11 @@
-# beacadedmy-devstart-logicadeprogramacao
+# beacadedmy - devstart - lógica de programação
 
 Exercícios das aulas de lógica de programação
 
-<a href='https://github.com/EleazarFreitas/beacademy-devstart-logicadeprogramacao/blob/main/beacademy-devstart-logicadeprogramacao/00-variaveis.txt'>Exercício 00</a> - variáveis
+<a href='https://github.com/EleazarFreitas/beacademy-devstart-logicadeprogramacao/blob/main/beacademy-devstart-logicadeprogramacao/00-variaveis.txt'>Exercício 00</a> - 
+Variáveis
 
-<a href='https://github.com/EleazarFreitas/beacademy-devstart-logicadeprogramacao/blob/main/beacademy-devstart-logicadeprogramacao/01-constantes-comandos-de-atribuicao-e-comentarios.txt'>Exercício 01</a> - constantes, comandos de atribuição e comentários
+<a href='https://github.com/EleazarFreitas/beacademy-devstart-logicadeprogramacao/blob/main/beacademy-devstart-logicadeprogramacao/01-constantes-comandos-de-atribuicao-e-comentarios.txt'>Exercício 01</a> - Constantes, comandos de atribuição e comentários
 
 <a href='https://github.com/EleazarFreitas/beacademy-devstart-logicadeprogramacao/blob/main/beacademy-devstart-logicadeprogramacao/03-operadores-aritmeticos-relacionais-logicos-caracteres-leitura-e-saida-de-dados.txt'>Exercício 02</a> - Operadores Aritméticos, Relacionais, Lógicos, Caracteres, Leitura e Saída de Dados
 
