@@ -1,0 +1,17 @@
+
+const PESO = Number(prompt('Informe seu peso'));
+const ALTURA = Number(prompt('Informe sua altura'));
+
+const IMC = (PESO / (ALTURA ** 2)).toFixed(2);
+
+if (IMC < 19) {
+    console.log(`IMC: ${IMC}\nClassificação: Abaixo do peso`);
+} else if (IMC < 25) {
+    console.log(`IMC: ${IMC}\nClassificação: Peso Normal`);
+} else if (IMC < 30) {
+    console.log(`IMC: ${IMC}\nClassificação: Sobrepeso`);
+} else if (IMC < 40) {
+    console.log(`IMC: ${IMC}\nClassificação: Obesidade Tipo I`);
+} else {
+    console.log(`IMC: ${IMC}\nClassificação: Obesidade Mórbida`);
+}
