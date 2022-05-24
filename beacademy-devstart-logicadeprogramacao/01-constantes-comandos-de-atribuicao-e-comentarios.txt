@@ -1,0 +1,8 @@
+
+const NOME = prompt('Digite seu nome'); // Eleazar
+const PESO = Number(prompt('Informe seu peso')); // 70
+const ALTURA = Number(prompt('Informe sua altura')); // 1.70
+
+const IMC = (PESO / (ALTURA ** 2)).toFixed(2); // Calcula o IMC
+
+console.log(`${NOME}, seu IMC é ${IMC}`); // Exibe o IMC
