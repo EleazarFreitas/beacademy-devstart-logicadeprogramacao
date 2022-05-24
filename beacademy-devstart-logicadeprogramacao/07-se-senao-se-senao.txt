@@ -1,6 +1,6 @@
 
 let saldo = 1000;
-let opcao = Number(prompt('Digite 1 para sacar | Digite 2 para depositar'));
+let opcao = Number(prompt('Digite 1 para sacar\nDigite 2 para depositar'));
 
 if (opcao == 1) {
     
