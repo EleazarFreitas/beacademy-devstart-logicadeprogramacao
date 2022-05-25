@@ -1,5 +1,5 @@
 
-let dadosAluno = ['Eleazar Freitas', 5, 5];
+let dadosAluno = ['Eleazar Freitas', 7, 10];
 let media = (dadosAluno[1] + dadosAluno[2]) / 2;
 
 if (media > 5) {
