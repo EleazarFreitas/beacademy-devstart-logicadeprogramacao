@@ -1,5 +1,5 @@
 
-let name = 'Eleazar Freitas';
-let adress = 'Rua fulano de tal - 000 - bairro tal - Recife-PE';
+let nome = 'Eleazar Freitas';
+let endereco = 'Rua fulano de tal - 000 - bairro tal - Recife-PE';
 
-console.log(`Meu nome é ${name} e moro na ${adress}`);
+console.log(`Meu nome é ${nome} e moro na ${endereco}`);
