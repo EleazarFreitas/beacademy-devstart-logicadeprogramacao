@@ -1,0 +1,11 @@
+
+let total = 0;
+
+let i = 0;
+
+do {
+    total += i;
+    i++;
+} while (i < 101)
+
+console.log(total);
