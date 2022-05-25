@@ -1,0 +1,13 @@
+
+let dadosAluno = ['Eleazar Freitas', 5, 5];
+let media = (dadosAluno[1] + dadosAluno[2]) / 2;
+
+if (media > 5) {
+    
+    console.log(`Olá, ${dadosAluno[0]}. Suas notas foram ${dadosAluno[1]} e ${dadosAluno[2]}. Você foi aprovado!`);
+    
+} else {
+    
+    console.log(`Olá, ${dadosAluno[0]}. Suas notas foram ${dadosAluno[1]} e ${dadosAluno[2]}. Infelizmente, você foi reprovado!`);
+    
+}
