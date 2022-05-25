@@ -27,8 +27,8 @@ Variáveis
 
 <a href='https://github.com/EleazarFreitas/beacademy-devstart-logicadeprogramacao/blob/main/beacademy-devstart-logicadeprogramacao/12-estrutura-de-repeticao-enquanto-while.txt'>Exercício 11</a> - Estrutura de Repeticao - Enquanto (While)
 
-<a href='https://github.com/EleazarFreitas/beacademy-devstart-logicadeprogramacao/blob/main/beacademy-devstart-logicadeprogramacao/13-estrutura-de-dados.txt'>Exercício 12</a> - Estrutura de Dados
+<a href='https://github.com/EleazarFreitas/beacademy-devstart-logicadeprogramacao/blob/main/beacademy-devstart-logicadeprogramacao/15-estrutura-de-repeticao-enquant-repita-ate-do-while.txt'>Exercício 12</a> - Estrutura de Repeticao - Enquanto Repita-ate (Do While)
 
-<a href='https://github.com/EleazarFreitas/beacademy-devstart-logicadeprogramacao/blob/main/beacademy-devstart-logicadeprogramacao/14-estrutura-de-dados.txt'>Exercício 13</a> - Estrutura de Dados II
+<a href='https://github.com/EleazarFreitas/beacademy-devstart-logicadeprogramacao/blob/main/beacademy-devstart-logicadeprogramacao/13-estrutura-de-dados.txt'>Exercício 14</a> - Estrutura de Dados
 
-<a href='https://github.com/EleazarFreitas/beacademy-devstart-logicadeprogramacao/blob/main/beacademy-devstart-logicadeprogramacao/15-estrutura-de-repeticao-enquant-repita-ate-do-while.txt'>Exercício 14</a> - Estrutura de Repeticao - Enquanto Repita-ate (Do While)
+<a href='https://github.com/EleazarFreitas/beacademy-devstart-logicadeprogramacao/blob/main/beacademy-devstart-logicadeprogramacao/14-estrutura-de-dados.txt'>Exercício 15</a> - Estrutura de Dados II
