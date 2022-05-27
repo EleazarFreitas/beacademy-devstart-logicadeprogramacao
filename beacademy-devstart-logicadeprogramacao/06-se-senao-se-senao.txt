@@ -2,9 +2,9 @@
 let idade = Number(prompt('Informe sua idade'));
 
 if (idade < 18) {
-    console.log(`IMC: ${idade}\nClassificação: Menor de Idade`);
+    console.log(`Idade: ${idade}\nClassificação: Menor de Idade`);
 } else if (idade < 60) {
-    console.log(`IMC: ${idade}\nClassificação: Adulto`);
+    console.log(`Idade: ${idade}\nClassificação: Adulto`);
 } else {
-    console.log(`IMC: ${idade}\nClassificação: Idoso`);
+    console.log(`Idade: ${idade}\nClassificação: Idoso`);
 }
